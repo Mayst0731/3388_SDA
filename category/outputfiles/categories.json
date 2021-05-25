@@ -1,0 +1,172 @@
+[
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - Marketing & Sales",
+        "url": "https://www.sdabocconi.it/en/online-programs#MarketingVendite"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - General Management",
+        "url": "https://www.sdabocconi.it/en/online-programs#GeneralManagement"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - Accounting, Tax And Control",
+        "url": "https://www.sdabocconi.it/en/online-programs#Amministrazione"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - Real Estate",
+        "url": "https://www.sdabocconi.it/en/online-programs#RealEstate"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - Sport",
+        "url": "https://www.sdabocconi.it/en/online-programs#Sport"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - It Methods & Tools",
+        "url": "https://www.sdabocconi.it/en/online-programs#itMethods "
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - Healthcare",
+        "url": "https://www.sdabocconi.it/en/online-programs#healthcare "
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/online-programs",
+        "name": "Online - Operations, Procurement And R&D",
+        "url": "https://www.sdabocconi.it/en/online-programs#OperationsProcurementandR&D"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - General Management",
+        "url": "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Digital Transformation & Innovation",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/digital-transformation-innovation"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Finance for non finance Manager",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/finance-for-non-finance-manager-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Leadership & Personal Skills",
+        "url": "https://www.sdabocconi.it/en/executive-education/executive-open-programs/leadership"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Project Management",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/project-management"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Business Data Analytics",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/business-data-analytics-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Strategy, Governance & Family Business",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/strategy-governance-family-business-filter-"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Entrepreneurship",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/entrepreneurship-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Management - Public Administration-Company Relationships",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/pa-company-relationships-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Accounting, Tax and Control",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/accounting-control-and-tax-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Economy & Society",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/economy--society-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Finance",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/finance-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Information Systems",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Marketing & Sales",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Operations, Procurement and R&D",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/operations-procurement-and-rd-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Organization & HR",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/organization-and-hr-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Functions - Sustainability",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/sustainability-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Banks, Insurance & Financial Institutions",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/banks-insurance-and-financial-intermediaries-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Real Estate",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Tourism",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/tourism-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Sport",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/sports-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Agribusiness",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/agribusiness-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Public Administration",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Health Care",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - No Profit",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/no-profit-filter"
+    },
+    {
+        "parent_url": "https://www.sdabocconi.it/en/executive-open-programs",
+        "name": "Industries, Pa, Healthcare And No Profit - Art & Culture",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/art-culture-filter"
+    }
+]

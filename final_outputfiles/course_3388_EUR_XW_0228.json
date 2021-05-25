@@ -1,0 +1,584 @@
+[
+    {
+        "name": "Fundamentals Of Accounting",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/fundamentals-of-accounting",
+        "category_name": [
+            "Balance and Risk Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/accounting-control-and-tax-filter"
+        ]
+    },
+    {
+        "name": "Administration, Control & Tax",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/administration-control-tax",
+        "category_name": [
+            "Tax"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/accounting-control-and-tax-filter"
+        ]
+    },
+    {
+        "name": "Finanziare La Crescita Aziendale",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/finanziare-la-crescita-aziendale-come-scegliere-le-forme-di-finanziamento-giuste",
+        "category_name": [
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/finance-filter"
+        ]
+    },
+    {
+        "name": "It Management",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/it-management-da-specialista-a-manager-di-it",
+        "category_name": [
+            "IT Methods & Tools"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+        ]
+    },
+    {
+        "name": "It Risk Management.",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/it-risk-management",
+        "category_name": [
+            "IT Transformation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+        ]
+    },
+    {
+        "name": "Information Systems And It",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it",
+        "category_name": [
+            "IT Methods & Tools"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+        ]
+    },
+    {
+        "name": "Visual Merchandising",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/visual-merchandising-comunicazione-nel-punto-vendita-e-valore-per-il-cliente",
+        "category_name": [
+            "Channel & Retail"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Competenze Per Vendere. Analizzare I Dati Per Migliorare Le Performance Sui Clienti",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-analizzare-i-dati-per-migliorare-le-performance-sui-clienti",
+        "category_name": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Premiumization. Da Marca A Premium Brand",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/premiumization",
+        "category_name": [
+            "Brand Strategy & Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Competenze Per Vendere.  Negoziare Con Successo Con I Clienti",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-negoziare-con-successo-con-i-clienti",
+        "category_name": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Store Management",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/store-management",
+        "category_name": [
+            "Channel & Retail"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Competenze Per Vendere. Fidelizzare E Sviluppare I Clienti Attuali",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-fidelizzare-e-sviluppare-i-clienti-attuali",
+        "category_name": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Competenze Per Vendere. Ricercare E Acquisire Nuovi Clienti",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-ricercare-e-acquisire-nuovi-clienti",
+        "category_name": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Social Media Marketing",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/social-media-marketing",
+        "category_name": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Comunicare Per Creare Valore",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/comunicare-per-creare-valore",
+        "category_name": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Marketing, Sales, Communications And Distribution",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-communications-and-distribution",
+        "category_name": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Digital Communication - Online Edition",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/digital-communication-online-edition",
+        "category_name": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Customer-Based Strategies And New Revenue Models",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/customer-based-strategies-and-new-revenue-models",
+        "category_name": [
+            "Marketing"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ]
+    },
+    {
+        "name": "Service Design In The Digital Era",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/service-design-in-digital-era",
+        "category_name": [
+            "Marketing",
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Valutazione Immobiliare",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/valutazione-immobiliare-come-stimare-il-valore-di-mercato-degli-immobili-commerciali",
+        "category_name": [
+            "Real Estate"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+        ]
+    },
+    {
+        "name": "Marketing Immobiliare",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/marketing-immobiliare",
+        "category_name": [
+            "Real Estate"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+        ]
+    },
+    {
+        "name": "Real Estate Valuation And Financing",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/real-estate-valuation-and-financing",
+        "category_name": [
+            "Real Estate"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+        ]
+    },
+    {
+        "name": "Sport Marketing & Sponsorship",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/sport-marketing-sponsorship-competenze-per-un-manager-sportivo-di-successo",
+        "category_name": [
+            "Sport"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/sports-filter"
+        ]
+    },
+    {
+        "name": "Sports",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/sports",
+        "category_name": [
+            "Sport"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/sports-filter"
+        ]
+    },
+    {
+        "name": "Managing Intercultural Teams",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/managing-intercultural-teams",
+        "category_name": [
+            "International Organizations",
+            "Project Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Senior Leadership Program",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/senior-leadership-program",
+        "category_name": [
+            "International Organizations",
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Senior Management Program (Smp)",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/senior-management-program",
+        "category_name": [
+            "International Organizations",
+            "General Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Result Based Management",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/result-based-management",
+        "category_name": [
+            "International Organizations",
+            "Project Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Project Management In International Organizations",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/project-management-in-international-organizations",
+        "category_name": [
+            "International Organizations",
+            "Project Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Hospital Management: The Simulation & The Pandemic",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/hospital-management-the-simulation",
+        "category_name": [
+            "Healthcare General Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ]
+    },
+    {
+        "name": "Access To Medicines In Low- And Middle-Income Countries",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/access-to-medicines-in-low-and-middle-income-countries",
+        "category_name": [
+            "Business - Government Relations"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ]
+    },
+    {
+        "name": "Value-Based Medtech: How To Succeed In A Challenging Environment",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/value-based-medtech-how-to-succeed-in-a-challenging-environment",
+        "category_name": [
+            "Business - Government Relations"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ]
+    },
+    {
+        "name": "Ipam",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/international-program-arts-management",
+        "category_name": [
+            "Art & Culture"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/art-culture-filter"
+        ]
+    },
+    {
+        "name": "Emozioni Al Lavoro",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/emozioni-al-lavoro",
+        "category_name": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Fundamentals Of Python",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/fundamentals-of-python",
+        "category_name": [
+            "Business Data Analytics"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Personal Branding",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/personal-branding-come-costruire-e-gestire-il-tuo-brand-personale",
+        "category_name": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Data Analysis For Business: Foundations",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/data-analysis-for-business-foundations",
+        "category_name": [
+            "Business Data Analytics"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Il Business Plan",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/il-business-plan-come-tradurre-un-idea-in-un-progetto-imprenditoriale",
+        "category_name": [
+            "Strategy, Governance & Family Business"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Management",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/management",
+        "category_name": [
+            "Finance for non finance Manager"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Public Speaking Eng",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/public-speaking-eng",
+        "category_name": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Strategic Innovation In The Digital Era",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/strategic-innovation-in-the-digital-era",
+        "category_name": [
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Emerging Leaders Program",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/emerging-leaders-program",
+        "category_name": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ]
+    },
+    {
+        "name": "Master Of International Healthcare Management, Economics And Policy",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/mihmep",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Master In Arts Management And Administration",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/mama",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Master In Corporate Finance",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/mcf",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Master Of Management In Food & Beverage",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/mfb",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Master In Fashion, Experience & Design Management",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/mafed",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Master In Imprenditorialit\u00e0 E Strategia Aziendale",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/misa",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Master In Management Per La Sanit\u00e0",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/mims",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Executive Master In Management Of International Organizations",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/emmio",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Executive Master In Luxury Management",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/emilux",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Executive Master In Marketing & Sales.In Partnership With Esade",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/emms",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Executive Master In Management Delle Amministrazioni Pubbliche",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/emmap",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "Executive Master In Finance",
+        "url": "https://www.sdabocconi.it/en/specialized-master-full-time-executive/emf",
+        "category_name": [
+            "Specialized Executive Masters"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/specialized-master-full-time-executive"
+        ]
+    },
+    {
+        "name": "MBA",
+        "url": "https://www.sdabocconi.it/en/mba-executive-mba/full-time-mba",
+        "category_name": [
+            "All MBAs"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/mba-executive-mba"
+        ]
+    },
+    {
+        "name": "EMBA",
+        "url": "https://www.sdabocconi.it/en/mba-executive-mba/executive-mba",
+        "category_name": [
+            "All MBAs"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/mba-executive-mba"
+        ]
+    },
+    {
+        "name": "GEMBA",
+        "url": "https://www.sdabocconi.it/en/mba-executive-mba/global-executive-mba",
+        "category_name": [
+            "All MBAs"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/mba-executive-mba"
+        ]
+    }
+]

@@ -1,0 +1,736 @@
+[
+    {
+        "name": "Fundamentals Of Accounting",
+        "category": [
+            "Balance and Risk Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/accounting-control-and-tax-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/fundamentals-of-accounting",
+        "testimonials": []
+    },
+    {
+        "name": "Fundamentals Of Budgeting",
+        "category": [
+            "Balance and Risk Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/accounting-control-and-tax-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/fundamentals-of-budgeting",
+        "testimonials": []
+    },
+    {
+        "name": "Administration, Control & Tax",
+        "category": [
+            "Tax"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/accounting-control-and-tax-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/administration-control-tax",
+        "testimonials": []
+    },
+    {
+        "name": "Finanziare La Crescita Aziendale",
+        "category": [
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/finance-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/finanziare-la-crescita-aziendale-come-scegliere-le-forme-di-finanziamento-giuste",
+        "testimonials": []
+    },
+    {
+        "name": "It Management",
+        "category": [
+            "IT Methods & Tools"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/it-management-da-specialista-a-manager-di-it",
+        "testimonials": []
+    },
+    {
+        "name": "It Risk Management.",
+        "category": [
+            "IT Transformation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/it-risk-management",
+        "testimonials": []
+    },
+    {
+        "name": "Information Systems And It",
+        "category": [
+            "IT Methods & Tools"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/information-systems-and-it",
+        "testimonials": []
+    },
+    {
+        "name": "Competenze Per Vendere. Ricercare E Acquisire Nuovi Clienti",
+        "category": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-ricercare-e-acquisire-nuovi-clienti",
+        "testimonials": []
+    },
+    {
+        "name": "Store Management",
+        "category": [
+            "Channel & Retail"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/store-management",
+        "testimonials": []
+    },
+    {
+        "name": "Competenze Per Vendere.  Negoziare Con Successo Con I Clienti",
+        "category": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-negoziare-con-successo-con-i-clienti",
+        "testimonials": []
+    },
+    {
+        "name": "Premiumization. Da Marca A Premium Brand",
+        "category": [
+            "Brand Strategy & Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/premiumization",
+        "testimonials": []
+    },
+    {
+        "name": "Comunicare Per Creare Valore",
+        "category": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/comunicare-per-creare-valore",
+        "testimonials": []
+    },
+    {
+        "name": "Visual Merchandising",
+        "category": [
+            "Channel & Retail"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/visual-merchandising-comunicazione-nel-punto-vendita-e-valore-per-il-cliente",
+        "testimonials": []
+    },
+    {
+        "name": "Social Media Marketing",
+        "category": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/social-media-marketing",
+        "testimonials": []
+    },
+    {
+        "name": "Competenze Per Vendere. Fidelizzare E Sviluppare I Clienti Attuali",
+        "category": [
+            "Sales"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/competenze-per-vendere-fidelizzare-e-sviluppare-i-clienti-attuali",
+        "testimonials": []
+    },
+    {
+        "name": "Marketing, Sales, Communications And Distribution",
+        "category": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-communications-and-distribution",
+        "testimonials": []
+    },
+    {
+        "name": "Digital Communication - Online Edition",
+        "category": [
+            "Communication & Content"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "5 Days",
+        "effective_date_start": "2021-10-25",
+        "effective_date_end": "2021-12-03",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/digital-communication-online-edition",
+        "testimonials": []
+    },
+    {
+        "name": "Customer-Based Strategies And New Revenue Models",
+        "category": [
+            "Marketing"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter"
+        ],
+        "duration": "3,5 Days",
+        "effective_date_start": "2021-05-18",
+        "effective_date_end": "2021-05-28",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/customer-based-strategies-and-new-revenue-models",
+        "testimonials": []
+    },
+    {
+        "name": "Service Design In The Digital Era",
+        "category": [
+            "Marketing",
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "4 Days",
+        "effective_date_start": "2021-04-26",
+        "effective_date_end": "2021-05-23",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/service-design-in-digital-era",
+        "testimonials": []
+    },
+    {
+        "name": "Big Data And Artificial Intelligence Marketing",
+        "category": [
+            "Marketing",
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/marketing-sales-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "4 Days",
+        "effective_date_start": "2020-12-03",
+        "effective_date_end": "2020-12-22",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/big-data-and-artificial-intelligence-marketing",
+        "testimonials": []
+    },
+    {
+        "name": "Procurement, Operations, Supply Chain And R&D Programs",
+        "category": [
+            "Procurement Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/operations-procurement-and-rd-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/operations-procurement-and-rd",
+        "testimonials": []
+    },
+    {
+        "name": "Organization And Hr",
+        "category": [
+            "Organization & HR Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/organization-and-hr-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/organization-and-hr",
+        "testimonials": []
+    },
+    {
+        "name": "Banks, Insurance, And Financial Intermediaries",
+        "category": [
+            "Risk Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/banks-insurance-and-financial-intermediaries-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/banks-insurance-and-financial-intermediaries",
+        "testimonials": []
+    },
+    {
+        "name": "Valutazione Immobiliare",
+        "category": [
+            "Real Estate"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/valutazione-immobiliare-come-stimare-il-valore-di-mercato-degli-immobili-commerciali",
+        "testimonials": []
+    },
+    {
+        "name": "Marketing Immobiliare",
+        "category": [
+            "Real Estate"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/marketing-immobiliare",
+        "testimonials": []
+    },
+    {
+        "name": "Real Estate Valuation And Financing",
+        "category": [
+            "Real Estate"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/real-estate-filter"
+        ],
+        "duration": "5 Days",
+        "effective_date_start": "2021-10-18",
+        "effective_date_end": "2021-10-22",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/real-estate-valuation-and-financing",
+        "testimonials": []
+    },
+    {
+        "name": "Sport Marketing & Sponsorship",
+        "category": [
+            "Sport"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/sports-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/sport-marketing-sponsorship-competenze-per-un-manager-sportivo-di-successo",
+        "testimonials": []
+    },
+    {
+        "name": "Sports",
+        "category": [
+            "Sport"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/sports-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/sports",
+        "testimonials": []
+    },
+    {
+        "name": "Managing Intercultural Teams",
+        "category": [
+            "International Organizations",
+            "Project Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "3,5 Days",
+        "effective_date_start": "2021-10-01",
+        "effective_date_end": "2021-10-22",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/managing-intercultural-teams",
+        "testimonials": []
+    },
+    {
+        "name": "Senior Leadership Program",
+        "category": [
+            "International Organizations",
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "5 Days",
+        "effective_date_start": "2021-09-09",
+        "effective_date_end": "2021-10-08",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/senior-leadership-program",
+        "testimonials": []
+    },
+    {
+        "name": "Senior Management Program (Smp)",
+        "category": [
+            "International Organizations",
+            "General Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "7 Days",
+        "effective_date_start": "2021-06-10",
+        "effective_date_end": "2021-07-28",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/senior-management-program",
+        "testimonials": []
+    },
+    {
+        "name": "Result Based Management",
+        "category": [
+            "International Organizations",
+            "Project Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "3,5 Days",
+        "effective_date_start": "2021-06-04",
+        "effective_date_end": "2021-06-25",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/result-based-management",
+        "testimonials": []
+    },
+    {
+        "name": "Project Management In International Organizations",
+        "category": [
+            "International Organizations",
+            "Project Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/publicadministration-filter",
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "3,5 Days",
+        "effective_date_start": "2021-04-02",
+        "effective_date_end": "2021-04-30",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/project-management-in-international-organizations",
+        "testimonials": []
+    },
+    {
+        "name": "Healthcare Programs",
+        "category": [
+            "Healthcare General Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/healthcare",
+        "testimonials": []
+    },
+    {
+        "name": "Access To Medicines In Low- And Middle-Income Countries",
+        "category": [
+            "Business - Government Relations"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ],
+        "duration": "2 Days",
+        "effective_date_start": "2021-11-18",
+        "effective_date_end": "2021-11-20",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/access-to-medicines-in-low-and-middle-income-countries",
+        "testimonials": []
+    },
+    {
+        "name": "Value-Based Medtech: How To Succeed In A Challenging Environment",
+        "category": [
+            "Business - Government Relations"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ],
+        "duration": "3,5 Days",
+        "effective_date_start": "2021-10-04",
+        "effective_date_end": "2021-11-03",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/value-based-medtech-how-to-succeed-in-a-challenging-environment",
+        "testimonials": []
+    },
+    {
+        "name": "Hospital Management: The Simulation",
+        "category": [
+            "Healthcare General Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/healthcare-filter"
+        ],
+        "duration": "3,5 Days",
+        "effective_date_start": "2021-06-09",
+        "effective_date_end": "2021-06-12",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/hospital-management-the-simulation",
+        "testimonials": []
+    },
+    {
+        "name": "Ipam",
+        "category": [
+            "Art & Culture"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-open-programs/art-culture-filter"
+        ],
+        "duration": "6 Weeks",
+        "effective_date_start": "2020-05-04",
+        "effective_date_end": "2020-06-14",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/international-program-arts-management",
+        "testimonials": []
+    },
+    {
+        "name": "Emozioni Al Lavoro",
+        "category": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/emozioni-al-lavoro",
+        "testimonials": []
+    },
+    {
+        "name": "Il Business Plan",
+        "category": [
+            "Strategy, Governance & Family Business"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/il-business-plan-come-tradurre-un-idea-in-un-progetto-imprenditoriale",
+        "testimonials": []
+    },
+    {
+        "name": "Personal Branding",
+        "category": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/personal-branding-come-costruire-e-gestire-il-tuo-brand-personale",
+        "testimonials": []
+    },
+    {
+        "name": "Data Analysis For Business: Foundations",
+        "category": [
+            "Business Data Analytics"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/data-analysis-for-business-foundations",
+        "testimonials": []
+    },
+    {
+        "name": "Fundamentals Of Python",
+        "category": [
+            "Business Data Analytics"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/fundamentals-of-python",
+        "testimonials": []
+    },
+    {
+        "name": "Management",
+        "category": [
+            "Finance for non finance Manager"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "",
+        "effective_date_start": "",
+        "effective_date_end": "",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/management",
+        "testimonials": []
+    },
+    {
+        "name": "Public Speaking Eng",
+        "category": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "1 Day",
+        "effective_date_start": "2021-11-05",
+        "effective_date_end": "2021-11-05",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/public-speaking-eng",
+        "testimonials": []
+    },
+    {
+        "name": "Strategic Innovation In The Digital Era",
+        "category": [
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "4 Days",
+        "effective_date_start": "2021-10-25",
+        "effective_date_end": "2021-11-25",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/strategic-innovation-in-the-digital-era",
+        "testimonials": []
+    },
+    {
+        "name": "Emerging Leaders Program",
+        "category": [
+            "Leadership & Personal Skills"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/executive-education/executive-open-programs/managment#category-generalmanagement%7Clanguage-english"
+        ],
+        "duration": "7 Days",
+        "effective_date_start": "2021-09-14",
+        "effective_date_end": "2021-12-17",
+        "language": "English",
+        "url": "https://www.sdabocconi.it/en/executive-open-programs/emerging-leaders-program",
+        "testimonials": []
+    },
+    {
+        "name": "",
+        "category": [
+            "Operations & Supply Chain Management"
+        ],
+        "category_url": [
+            "https://www.sdabocconi.it/en/online-programs"
+        ],
+        "duration": "5 Days ",
+        "effective_date_start": "2021-10-18",
+        "effective_date_end": "2021-11-19",
+        "language": "Italian",
+        "url": "https://www.sdabocconi.it/en/gekoSeoUrlNotMapped",
+        "testimonials": []
+    }
+]
